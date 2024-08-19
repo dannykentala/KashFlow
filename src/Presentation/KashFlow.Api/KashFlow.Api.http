@@ -1,0 +1,6 @@
+@KashFlow.Api_HostAddress = http://localhost:5256
+
+GET {{KashFlow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
